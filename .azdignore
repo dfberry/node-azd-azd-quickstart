@@ -1,0 +1,5 @@
+.git
+.github
+.vscode
+.azure
+node_modules
